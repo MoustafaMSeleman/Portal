@@ -1,0 +1,12 @@
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\bin\Debug\net8.0\Portal.Contracts.deps.json
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\bin\Debug\net8.0\Portal.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\bin\Debug\net8.0\Portal.Contracts.pdb
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.AssemblyInfoInputs.cache
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.AssemblyInfo.cs
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.csproj.CoreCompileInputs.cache
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.sourcelink.json
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\refint\Portal.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\Portal.Contracts.pdb
+E:\DotNet\Domain-driven design\My Projects\Portal\Portal.Contracts\obj\Debug\net8.0\ref\Portal.Contracts.dll
